@@ -1,5 +1,7 @@
 # Streamlit S3 ML Project
 
+https://algopyth24-25.streamlit.app/
+
 This app allows you to:
 - Load datasets from AWS S3 buckets
 - Explore data with interactive EDA (histograms, boxplots, pairplots)
