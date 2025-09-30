@@ -7,6 +7,8 @@ This app allows you to:
 - Explore data with interactive EDA (histograms, boxplots, pairplots)
 - Train and evaluate ML models (Logistic Regression, Random Forest, XGBoost) to predict customer churn
 
+This was a nice school project which shows an exemple of a ML cloud deployment in production on the web.
+
 ## Setup
 1. Clone this repo
 2. Install dependencies:
